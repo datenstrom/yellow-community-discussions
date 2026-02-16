@@ -2,7 +2,7 @@
 
 Ask questions, report bugs and work with us. [View all discussions](https://github.com/datenstrom/community/discussions).
 
-<p align="left"><img src="screenshot.png" alt="Screenshot"></p>
+<p align="left"><img src="screenshot.png" alt="Screenshot" /></p>
 
 ## How to work with us
 
