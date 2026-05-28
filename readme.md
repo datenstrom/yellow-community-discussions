@@ -1,8 +1,6 @@
-# Datenstrom community
+# Yellow community discussions
 
-Ask questions, report bugs and work with us. [View all discussions](https://github.com/datenstrom/community/discussions).
-
-<p align="left"><img src="screenshot.png" alt="Screenshot" /></p>
+Ask and answer questions about Datenstrom Yellow. [View all discussions](https://github.com/datenstrom/community/discussions).
 
 ## How to work with us
 
