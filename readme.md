@@ -1,11 +1,27 @@
 # Yellow community discussions
 
-Ask and answer questions about Datenstrom Yellow. [View all discussions](https://github.com/datenstrom/community/discussions).
+Ask and answer questions about Datenstrom Yellow. [View all discussions](https://github.com/datenstrom/yellow-community-discussions/discussions).
 
-## How to work with us
+## How to ask a question
 
-We focus on people. Not on technical details and lots of features. There are many ways to become active in the Datenstrom community. Imagine what the user wants to do and what would make their life easier. Get familiar with files, folders and the API for developers. [See tips for working together](https://github.com/datenstrom/community/discussions/760).
+* Write the question in the title, it's the first thing everyone will see.
+* Describe the problem you are trying to solve.
+* Explain what you have done to solve the problem.
+* Select an answer, when the question has been answered.
 
-## Acknowledgements
+## How to report a bug
 
-Made in Europe. Thank you to all developers, designers and translators.
+* Explain how to reproduce the bug and provide detailed information.
+* Add the version number and log file `system/extensions/yellow-website.log`.
+* Check if the bug occurs in a brand new installation.
+* Select an answer, when the bug has been fixed.
+
+## Where to find information for new users
+
+This community is a place to help each other. Where you can ask and answer questions. Most answers are provided by people, just like you. Use an online translator if English is not your first language. While every question deserves a chance to be answered, after a while there's an increasingly small chance that an answer will be provided. That's why unanswered questions will be deleted after 365 days. We assume that questions that interest our community will be discussed and answered. Contributions which do not follow the contributing guidelines may be flagged or deleted by a maintainer.
+
+- How to ask good questions? - [see #757](https://github.com/datenstrom/yellow-community-discussions/discussions/757)
+- How to write good bug reports? - [see #759](https://github.com/datenstrom/yellow-community-discussions/discussions/759)
+- What can I do if my discussion was flagged or deleted? - [see #734](https://github.com/datenstrom/yellow-community-discussions/discussions/734)
+
+If you have feedback, contact a maintainer.
