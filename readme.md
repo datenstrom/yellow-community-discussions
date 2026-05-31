@@ -23,5 +23,6 @@ This community is a place to help each other. Where you can ask and answer quest
 - How to ask good questions? - [see #757](https://github.com/datenstrom/yellow-community-discussions/discussions/757)
 - How to write good bug reports? - [see #759](https://github.com/datenstrom/yellow-community-discussions/discussions/759)
 - Why was my discussion flagged or deleted? - [see #734](https://github.com/datenstrom/yellow-community-discussions/discussions/734)
+- Can I answer my own discussion? - [see #1032](https://github.com/datenstrom/yellow-community-discussions/discussions/1032)
 
 If you have feedback, contact a maintainer.
